@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="mot5-ultimate",
-    version="2.1.0",  # ✅ New version
+    version="3.0.0",
     description="MOT5 Ultimate - Sirf 3 Lines! Auto-Sync, Never Forgets!",
     author="Rohit Patra",
     packages=find_packages(),
