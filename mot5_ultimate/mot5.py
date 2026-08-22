@@ -1,8 +1,17 @@
 """
-MOT5 Ultimate - Auto GitHub Sync
+MOT5 Ultimate - Standalone (No external mot5 dependency)
 """
-import os, sys, json, base64, requests
-# Import base MOT5 from parent
+import os
+import sys
+import json
+import base64
+import requests
+import numpy as np
+
+# Add parent directory to path
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+# Import base MOT5 from local (not PyPI)
 from mot5 import MOT5 as BaseMOT5
 
 class MOT5(BaseMOT5):
