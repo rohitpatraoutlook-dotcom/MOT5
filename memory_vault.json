@@ -194,5 +194,11 @@
   "transition_rules": {},
   "region_maps": {},
   "evolutionary_flow": [],
-  "next_gene_id": 1
+  "next_gene_id": 1,
+  "metadata": {
+    "created": "2026-08-22",
+    "version": "1.0.0",
+    "total_runs": 0,
+    "last_updated": "2026-08-22"
+  }
 }
