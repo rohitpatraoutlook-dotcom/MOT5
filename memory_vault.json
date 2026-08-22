@@ -1,144 +1,36 @@
 {
   "invariant_store": {
-    "b8c9ce1a854294eb": {
-      "R_expr": "(2.6310 * x0)",
+    "b2715b43de1730fa": {
+      "R_expr": "0.1273",
       "K_expr": "0.0",
-      "metric": "(2.6310 * x0)",
+      "metric": "0.1273",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "579ae5b2efce6e24": {
+      "R_expr": "0.0598",
+      "K_expr": "0.0",
+      "metric": "0.0598",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 3,
       "trust_score": 0.5
     },
-    "e7d328a97f857bdb": {
-      "R_expr": "(x0 + x0)",
+    "eb78e19f4f64f430": {
+      "R_expr": "0.2205",
       "K_expr": "0.0",
-      "metric": "(x0 + x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 12,
-      "trust_score": 0.5
-    },
-    "e50eb7598b580311": {
-      "R_expr": "x0",
-      "K_expr": "0.0",
-      "metric": "x0",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 13,
-      "trust_score": 0.5
-    },
-    "252b33f1c14aff0a": {
-      "R_expr": "neg((x0 / -0.5957))",
-      "K_expr": "0.0",
-      "metric": "neg((x0 / -0.5957))",
+      "metric": "0.2205",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "efc8137ebe04541b": {
-      "R_expr": "sinh(x0)",
+    "aaa563fbb4c44bdb": {
+      "R_expr": "((x0 * 0.3623) / 1.7896)",
       "K_expr": "0.0",
-      "metric": "sinh(x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 5,
-      "trust_score": 0.5
-    },
-    "6e0fdf06cc5a81f3": {
-      "R_expr": "(x0 * ((3.5958 ^ x0) ^ 0.3204))",
-      "K_expr": "0.0",
-      "metric": "(x0 * ((3.5958 ^ x0) ^ 0.3204))",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "587ef3f4f4510708": {
-      "R_expr": "(tanh(tanh(x0)) + x0)",
-      "K_expr": "0.0",
-      "metric": "(tanh(tanh(x0)) + x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "12afefeca1e1cce8": {
-      "R_expr": "(neg(-0.9668) * (2.2904 * x0))",
-      "K_expr": "0.0",
-      "metric": "(neg(-0.9668) * (2.2904 * x0))",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "a388d9ceec9a0ff9": {
-      "R_expr": "(tanh(x0) + x0)",
-      "K_expr": "0.0",
-      "metric": "(tanh(x0) + x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "1887c03f460096b9": {
-      "R_expr": "0.0097",
-      "K_expr": "0.0",
-      "metric": "0.0097",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "511cd24f748b3556": {
-      "R_expr": "atan(atan(x0))",
-      "K_expr": "0.0",
-      "metric": "atan(atan(x0))",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 2,
-      "trust_score": 0.5
-    },
-    "50952508d33f1516": {
-      "R_expr": "sin(x0)",
-      "K_expr": "0.0",
-      "metric": "sin(x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 11,
-      "trust_score": 0.5
-    },
-    "c21892facffeb6bd": {
-      "R_expr": "-0.1519",
-      "K_expr": "0.0",
-      "metric": "-0.1519",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "749a1ea004390cea": {
-      "R_expr": "-0.0691",
-      "K_expr": "0.0",
-      "metric": "-0.0691",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "fc75736bf91caedf": {
-      "R_expr": "tanh(x0)",
-      "K_expr": "0.0",
-      "metric": "tanh(x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 3,
-      "trust_score": 0.5
-    },
-    "47f0b2944cfda057": {
-      "R_expr": "0.2370",
-      "K_expr": "0.0",
-      "metric": "0.2370",
+      "metric": "((x0 * 0.3623) / 1.7896)",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
@@ -150,301 +42,139 @@
       "metric": "tanh(tanh(x0))",
       "metric_type": "Node",
       "topology": "unknown",
-      "frequency": 1,
+      "frequency": 2,
       "trust_score": 0.5
     },
-    "fb02073c0f3d8c4b": {
-      "R_expr": "-0.3455",
+    "87cc5cd137232b6a": {
+      "R_expr": "(-0.2707 + atan(x0))",
       "K_expr": "0.0",
-      "metric": "-0.3455",
+      "metric": "(-0.2707 + atan(x0))",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "b47b3b69c3e1c39c": {
-      "R_expr": "-0.1925",
+    "fc75736bf91caedf": {
+      "R_expr": "tanh(x0)",
       "K_expr": "0.0",
-      "metric": "-0.1925",
+      "metric": "tanh(x0)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 4,
+      "trust_score": 0.5
+    },
+    "326d1671dd86fc31": {
+      "R_expr": "-0.0401",
+      "K_expr": "0.0",
+      "metric": "-0.0401",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 4,
+      "trust_score": 0.5
+    },
+    "511cd24f748b3556": {
+      "R_expr": "atan(atan(x0))",
+      "K_expr": "0.0",
+      "metric": "atan(atan(x0))",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "546f845bd10df554": {
-      "R_expr": "cos(x0)",
+    "d85b7809c0f5cc9b": {
+      "R_expr": "neg((-0.6627 * x0))",
       "K_expr": "0.0",
-      "metric": "cos(x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 5,
-      "trust_score": 0.5
-    },
-    "746362cbf948f995": {
-      "R_expr": "0.1717",
-      "K_expr": "0.0",
-      "metric": "0.1717",
+      "metric": "neg((-0.6627 * x0))",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "640bf6e7d63e335a": {
-      "R_expr": "0.2466",
+    "3cc1e67adfb94ee2": {
+      "R_expr": "cos((-1.1013 + x0))",
       "K_expr": "0.0",
-      "metric": "0.2466",
+      "metric": "cos((-1.1013 + x0))",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "e26502394a0929a2": {
-      "R_expr": "0.3282",
+    "50952508d33f1516": {
+      "R_expr": "sin(x0)",
       "K_expr": "0.0",
-      "metric": "0.3282",
+      "metric": "sin(x0)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 4,
+      "trust_score": 0.5
+    },
+    "5f63d1c77928238b": {
+      "R_expr": "atan(x0)",
+      "K_expr": "0.0",
+      "metric": "atan(x0)",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "4de648ef30affcb2": {
-      "R_expr": "0.2741",
+    "5dfa5f597ae35011": {
+      "R_expr": "0.1136",
       "K_expr": "0.0",
-      "metric": "0.2741",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "9b6f53b380fd165b": {
-      "R_expr": "0.1859",
-      "K_expr": "0.0",
-      "metric": "0.1859",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "011e4177e25036f3": {
-      "R_expr": "-0.4407",
-      "K_expr": "0.0",
-      "metric": "-0.4407",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "48d9f6c66a6e367c": {
-      "R_expr": "0.4156",
-      "K_expr": "0.0",
-      "metric": "0.4156",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "ec067af102865c9b": {
-      "R_expr": "0.1242",
-      "K_expr": "0.0",
-      "metric": "0.1242",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "f5d1f309610f0a66": {
-      "R_expr": "0.0023",
-      "K_expr": "0.0",
-      "metric": "0.0023",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "7950b615f7866c15": {
-      "R_expr": "-0.5219",
-      "K_expr": "0.0",
-      "metric": "-0.5219",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "61feef8a21924778": {
-      "R_expr": "0.0917",
-      "K_expr": "0.0",
-      "metric": "0.0917",
+      "metric": "0.1136",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 2,
       "trust_score": 0.5
     },
-    "17ca930c564ded7a": {
-      "R_expr": "0.1332",
+    "e50eb7598b580311": {
+      "R_expr": "x0",
       "K_expr": "0.0",
-      "metric": "0.1332",
+      "metric": "x0",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "58e7136e3ff207d3": {
-      "R_expr": "-0.0231",
+    "42b2cfc4124765d7": {
+      "R_expr": "1.0871",
       "K_expr": "0.0",
-      "metric": "-0.0231",
+      "metric": "1.0871",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "0dfd21fa1ef7057a": {
-      "R_expr": "0.2396",
+    "e7295bb1787ff5ce": {
+      "R_expr": "atan(abs(x0))",
       "K_expr": "0.0",
-      "metric": "0.2396",
+      "metric": "atan(abs(x0))",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "be6b09eda1113797": {
-      "R_expr": "0.0584",
+    "2563e0ccf46412e0": {
+      "R_expr": "tanh(5.1340)",
       "K_expr": "0.0",
-      "metric": "0.0584",
+      "metric": "tanh(5.1340)",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "3a306ad72e7a2e79": {
-      "R_expr": "(0.9763 + 0.9763)",
+    "d4e35d1f90fec676": {
+      "R_expr": "abs((exp(-0.4650) * x0))",
       "K_expr": "0.0",
-      "metric": "(0.9763 + 0.9763)",
-      "metric_type": "Node",
-      "topology": "regional",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "1efaf97dad1b6835": {
-      "R_expr": "(x0 ^ x0)",
-      "K_expr": "0.0",
-      "metric": "(x0 ^ x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 3,
-      "trust_score": 0.5
-    },
-    "ed5eb8e806afff80": {
-      "R_expr": "exp(x0)",
-      "K_expr": "0.0",
-      "metric": "exp(x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 6,
-      "trust_score": 0.5
-    },
-    "bedd499340f44cde": {
-      "R_expr": "(1.2350 + sinh(x0))",
-      "K_expr": "0.0",
-      "metric": "(1.2350 + sinh(x0))",
+      "metric": "abs((exp(-0.4650) * x0))",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "c957f0349322760b": {
-      "R_expr": "(1.7846 ^ (x0 + x0))",
+    "c64043e067fc72e5": {
+      "R_expr": "1.0661",
       "K_expr": "0.0",
-      "metric": "(1.7846 ^ (x0 + x0))",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "c8eda3d1bc301062": {
-      "R_expr": "(x0 - -2.1411)",
-      "K_expr": "0.0",
-      "metric": "(x0 - -2.1411)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "14e46353d6fa96dc": {
-      "R_expr": "(1.8541 + x0)",
-      "K_expr": "0.0",
-      "metric": "(1.8541 + x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "3d31b122c7609c08": {
-      "R_expr": "cosh(x0)",
-      "K_expr": "0.0",
-      "metric": "cosh(x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "ea90c10d6a04f7df": {
-      "R_expr": "3.2681",
-      "K_expr": "0.0",
-      "metric": "3.2681",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "d7705190391fa32b": {
-      "R_expr": "(x0 - -1.0995)",
-      "K_expr": "0.0",
-      "metric": "(x0 - -1.0995)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "85b1bbe18f4c8c19": {
-      "R_expr": "(x0 - (x0 * (x0 / asin(-1.3214))))",
-      "K_expr": "0.0",
-      "metric": "(x0 - (x0 * (x0 / asin(-1.3214))))",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "d8c1a4d124e402d0": {
-      "R_expr": "(2.6273 ^ x0)",
-      "K_expr": "0.0",
-      "metric": "(2.6273 ^ x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "9aa40242bac759a7": {
-      "R_expr": "((((x0 + 2.0142) ^ tanh(0.5863)) * x0) * x0)",
-      "K_expr": "0.0",
-      "metric": "((((x0 + 2.0142) ^ tanh(0.5863)) * x0) * x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "71c7d0d01c279505": {
-      "R_expr": "(acos((-2.0166 / 1.5219)) ^ x0)",
-      "K_expr": "0.0",
-      "metric": "(acos((-2.0166 / 1.5219)) ^ x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 1,
-      "trust_score": 0.5
-    },
-    "230bc3e0a66b230f": {
-      "R_expr": "(((x0 ^ 0.0530) * -2.5143) ^ sinh(x0))",
-      "K_expr": "0.0",
-      "metric": "(((x0 ^ 0.0530) * -2.5143) ^ sinh(x0))",
+      "metric": "1.0661",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
@@ -455,133 +185,322 @@
       "K_expr": "0.0",
       "metric": "abs(x0)",
       "metric_type": "Node",
-      "topology": "regional",
-      "frequency": 1,
+      "topology": "unknown",
+      "frequency": 3,
       "trust_score": 0.5
     },
-    "b2b17764d0981ddc": {
-      "R_expr": "(x0 - (x0 / -0.9123))",
+    "d8d0618f92abe4d0": {
+      "R_expr": "cos(-0.2454)",
       "K_expr": "0.0",
-      "metric": "(x0 - (x0 / -0.9123))",
+      "metric": "cos(-0.2454)",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "7b06c9e7af85e3d1": {
-      "R_expr": "(x0 + (x0 * x0))",
+    "9ba07d52f05c6d3d": {
+      "R_expr": "0.9830",
       "K_expr": "0.0",
-      "metric": "(x0 + (x0 * x0))",
+      "metric": "0.9830",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "45b1fa80f5db5cb3": {
-      "R_expr": "acos(neg(tan(3.9447)))",
+    "854ad81af8a66582": {
+      "R_expr": "1.5200",
       "K_expr": "0.0",
-      "metric": "acos(neg(tan(3.9447)))",
+      "metric": "1.5200",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 3,
+      "trust_score": 0.5
+    },
+    "845a1d94b7790583": {
+      "R_expr": "(sin(x0) * x0)",
+      "K_expr": "0.0",
+      "metric": "(sin(x0) * x0)",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "4aaa248568809c2c": {
-      "R_expr": "exp((-1.6453 ^ (-2.3101 / -2.3101)))",
+    "30631a5009a4f078": {
+      "R_expr": "0.8788",
       "K_expr": "0.0",
-      "metric": "exp((-1.6453 ^ (-2.3101 / -2.3101)))",
+      "metric": "0.8788",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "64d6e9206db2a8f0": {
-      "R_expr": "(((2.1729 - (0.5368 + 1.3077)) ^ ((x0 ^ -0.0945) - x0)) - -2.3984)",
+    "f7a3f52ed72a051d": {
+      "R_expr": "0.6959",
       "K_expr": "0.0",
-      "metric": "(((2.1729 - (0.5368 + 1.3077)) ^ ((x0 ^ -0.0945) - x0)) - -2.3984)",
+      "metric": "0.6959",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "ff7611317b806a9d": {
+      "R_expr": "asin(abs(x0))",
+      "K_expr": "0.0",
+      "metric": "asin(abs(x0))",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "29f6956fbbd9847a": {
+      "R_expr": "(x0 ^ 0.4885)",
+      "K_expr": "0.0",
+      "metric": "(x0 ^ 0.4885)",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 2,
       "trust_score": 0.5
     },
-    "3fc75db97fe52d0b": {
-      "R_expr": "((-0.6461 ^ x0) + (x0 * (1.7312 + x0)))",
+    "ddeba5a1a33dec64": {
+      "R_expr": "(-0.2225 + 1.3019)",
       "K_expr": "0.0",
-      "metric": "((-0.6461 ^ x0) + (x0 * (1.7312 + x0)))",
+      "metric": "(-0.2225 + 1.3019)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 2,
+      "trust_score": 0.5
+    },
+    "54b82af524a8f7d2": {
+      "R_expr": "abs(atan(x0))",
+      "K_expr": "0.0",
+      "metric": "abs(atan(x0))",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "42c06d7ae31fa01a": {
-      "R_expr": "(x0 * x0)",
+    "6e7242878d648fa5": {
+      "R_expr": "0.9389",
       "K_expr": "0.0",
-      "metric": "(x0 * x0)",
-      "metric_type": "Node",
-      "topology": "unknown",
-      "frequency": 4,
-      "trust_score": 0.5
-    },
-    "faabe987833f6203": {
-      "R_expr": "(x0 * (x0 + (x0 ^ 0.0668)))",
-      "K_expr": "0.0",
-      "metric": "(x0 * (x0 + (x0 ^ 0.0668)))",
+      "metric": "0.9389",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "0eba745c0e0ab4ee": {
-      "R_expr": "abs(((x0 / sin(x0)) / (-2.3915 / (x0 * x0))))",
+    "5072f5756c1ab6ad": {
+      "R_expr": "(1.3716 ^ 0.2952)",
       "K_expr": "0.0",
-      "metric": "abs(((x0 / sin(x0)) / (-2.3915 / (x0 * x0))))",
+      "metric": "(1.3716 ^ 0.2952)",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "218a474b957a32ae": {
-      "R_expr": "((cos((x0 / -1.3555)) - (x0 * (x0 / -1.3555))) ^ asin(x0))",
+    "f05d0b0e4f59ee0d": {
+      "R_expr": "(0.4194 * cosh(-1.2338))",
       "K_expr": "0.0",
-      "metric": "((cos((x0 / -1.3555)) - (x0 * (x0 / -1.3555))) ^ asin(x0))",
+      "metric": "(0.4194 * cosh(-1.2338))",
+      "metric_type": "Node",
+      "topology": "local",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "e5cba0849ca3e407": {
+      "R_expr": "0.4616",
+      "K_expr": "0.0",
+      "metric": "0.4616",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "7d75d67a853547a4": {
-      "R_expr": "(cosh(x0) + x0)",
+    "711f3a54ac28dd17": {
+      "R_expr": "0.6581",
       "K_expr": "0.0",
-      "metric": "(cosh(x0) + x0)",
+      "metric": "0.6581",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "b5f21fab25860a7c": {
-      "R_expr": "((x0 + (2.2061 / 2.2061)) * x0)",
+    "55f92f535435fb71": {
+      "R_expr": "0.6188",
       "K_expr": "0.0",
-      "metric": "((x0 + (2.2061 / 2.2061)) * x0)",
+      "metric": "0.6188",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "a1162945b921b3c5": {
-      "R_expr": "((x0 ^ atan(1.5444)) + ((exp(x0) + -0.1670) ^ 0.7586))",
+    "753158293f42cd65": {
+      "R_expr": "acos(cos(-0.5911))",
       "K_expr": "0.0",
-      "metric": "((x0 ^ atan(1.5444)) + ((exp(x0) + -0.1670) ^ 0.7586))",
+      "metric": "acos(cos(-0.5911))",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 2,
+      "trust_score": 0.5
+    },
+    "936cc47dfca189ea": {
+      "R_expr": "1.2701",
+      "K_expr": "0.0",
+      "metric": "1.2701",
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
       "trust_score": 0.5
     },
-    "a306fec28b3dccd2": {
-      "R_expr": "((0.2132 ^ 0.2132) / 0.2132)",
+    "0b159544bb20c933": {
+      "R_expr": "0.7081",
       "K_expr": "0.0",
-      "metric": "((0.2132 ^ 0.2132) / 0.2132)",
+      "metric": "0.7081",
       "metric_type": "Node",
       "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "3076d24f421a4675": {
+      "R_expr": "0.2624",
+      "K_expr": "0.0",
+      "metric": "0.2624",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "978ce8e8fdb36acc": {
+      "R_expr": "0.3106",
+      "K_expr": "0.0",
+      "metric": "0.3106",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "88868b1b24855621": {
+      "R_expr": "atan(0.8658)",
+      "K_expr": "0.0",
+      "metric": "atan(0.8658)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "7a39a3dbba3be93e": {
+      "R_expr": "tanh(1.2051)",
+      "K_expr": "0.0",
+      "metric": "tanh(1.2051)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "6a716c0ede795eeb": {
+      "R_expr": "0.8810",
+      "K_expr": "0.0",
+      "metric": "0.8810",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "a91f3254b9af75d7": {
+      "R_expr": "exp(-0.4380)",
+      "K_expr": "0.0",
+      "metric": "exp(-0.4380)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "2fb74742e30dfe3f": {
+      "R_expr": "0.4618",
+      "K_expr": "0.0",
+      "metric": "0.4618",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "0d8bcab0decf3730": {
+      "R_expr": "cos(1.5938)",
+      "K_expr": "0.0",
+      "metric": "cos(1.5938)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "029ae3c234571996": {
+      "R_expr": "0.7753",
+      "K_expr": "0.0",
+      "metric": "0.7753",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "f877bc74ecf29f84": {
+      "R_expr": "tanh((x0 / x0))",
+      "K_expr": "0.0",
+      "metric": "tanh((x0 / x0))",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "dc36decc6b8e2e3d": {
+      "R_expr": "0.6740",
+      "K_expr": "0.0",
+      "metric": "0.6740",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "047a489d0714cfdd": {
+      "R_expr": "1.0681",
+      "K_expr": "0.0",
+      "metric": "1.0681",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "4e6d13220edda57d": {
+      "R_expr": "0.6045",
+      "K_expr": "0.0",
+      "metric": "0.6045",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "8188b720d41ed2fe": {
+      "R_expr": "0.5893",
+      "K_expr": "0.0",
+      "metric": "0.5893",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "424511dbab8b31ad": {
+      "R_expr": "-0.2754",
+      "K_expr": "0.0",
+      "metric": "-0.2754",
+      "metric_type": "Node",
+      "topology": "local",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "1755554430": {
+      "R_expr": "0.5893",
+      "K_expr": "0.0",
+      "metric": "0.5893",
+      "metric_type": "str",
+      "topology": "novel",
       "frequency": 1,
       "trust_score": 0.5
     }
