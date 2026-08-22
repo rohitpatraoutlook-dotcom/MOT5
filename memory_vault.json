@@ -6,7 +6,7 @@
       "metric": "x0",
       "metric_type": "Node",
       "topology": "unknown",
-      "frequency": 16,
+      "frequency": 17,
       "trust_score": 0.5
     },
     "ed5eb8e806afff80": {
@@ -96,7 +96,7 @@
       "metric": "(x0 + x0)",
       "metric_type": "Node",
       "topology": "unknown",
-      "frequency": 12,
+      "frequency": 9,
       "trust_score": 0.5
     },
     "638cfac1ec329acf": {
@@ -160,6 +160,15 @@
       "metric_type": "Node",
       "topology": "unknown",
       "frequency": 1,
+      "trust_score": 0.5
+    },
+    "f001ca7b9c31f0cd": {
+      "R_expr": "tan(1.3945)",
+      "K_expr": "0.0",
+      "metric": "tan(1.3945)",
+      "metric_type": "Node",
+      "topology": "regional",
+      "frequency": 2,
       "trust_score": 0.5
     }
   },
