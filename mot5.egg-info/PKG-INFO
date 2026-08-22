@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: mot5
+Version: 11.0.0
+Summary: MOT5 - Smart Equation Discovery Engine
+Author: MOT5 Team
+Requires-Python: >=3.8
+Requires-Dist: numpy>=1.21.0
+Dynamic: author
+Dynamic: description
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Discover equations from data in 10 lines! No random search, no forgetting!
