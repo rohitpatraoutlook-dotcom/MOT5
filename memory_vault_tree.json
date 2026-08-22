@@ -1,0 +1,21 @@
+{
+  "type": "node",
+  "value": "add",
+  "is_operator": true,
+  "is_variable": false,
+  "is_constant": false,
+  "left": {
+    "type": "node",
+    "value": 0.6492735808588053,
+    "is_operator": false,
+    "is_variable": false,
+    "is_constant": true
+  },
+  "right": {
+    "type": "node",
+    "value": 0,
+    "is_operator": false,
+    "is_variable": true,
+    "is_constant": false
+  }
+}
