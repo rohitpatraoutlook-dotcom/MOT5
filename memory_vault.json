@@ -15,7 +15,7 @@
       "metric": "(x0 + x0)",
       "metric_type": "Node",
       "topology": "unknown",
-      "frequency": 10,
+      "frequency": 11,
       "trust_score": 0.5
     },
     "e50eb7598b580311": {
@@ -24,7 +24,7 @@
       "metric": "x0",
       "metric_type": "Node",
       "topology": "unknown",
-      "frequency": 9,
+      "frequency": 13,
       "trust_score": 0.5
     },
     "252b33f1c14aff0a": {
@@ -42,7 +42,7 @@
       "metric": "sinh(x0)",
       "metric_type": "Node",
       "topology": "unknown",
-      "frequency": 3,
+      "frequency": 5,
       "trust_score": 0.5
     },
     "6e0fdf06cc5a81f3": {
@@ -319,6 +319,141 @@
       "R_expr": "(0.9763 + 0.9763)",
       "K_expr": "0.0",
       "metric": "(0.9763 + 0.9763)",
+      "metric_type": "Node",
+      "topology": "regional",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "1efaf97dad1b6835": {
+      "R_expr": "(x0 ^ x0)",
+      "K_expr": "0.0",
+      "metric": "(x0 ^ x0)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 2,
+      "trust_score": 0.5
+    },
+    "ed5eb8e806afff80": {
+      "R_expr": "exp(x0)",
+      "K_expr": "0.0",
+      "metric": "exp(x0)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 2,
+      "trust_score": 0.5
+    },
+    "bedd499340f44cde": {
+      "R_expr": "(1.2350 + sinh(x0))",
+      "K_expr": "0.0",
+      "metric": "(1.2350 + sinh(x0))",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "c957f0349322760b": {
+      "R_expr": "(1.7846 ^ (x0 + x0))",
+      "K_expr": "0.0",
+      "metric": "(1.7846 ^ (x0 + x0))",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "c8eda3d1bc301062": {
+      "R_expr": "(x0 - -2.1411)",
+      "K_expr": "0.0",
+      "metric": "(x0 - -2.1411)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "14e46353d6fa96dc": {
+      "R_expr": "(1.8541 + x0)",
+      "K_expr": "0.0",
+      "metric": "(1.8541 + x0)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "3d31b122c7609c08": {
+      "R_expr": "cosh(x0)",
+      "K_expr": "0.0",
+      "metric": "cosh(x0)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "ea90c10d6a04f7df": {
+      "R_expr": "3.2681",
+      "K_expr": "0.0",
+      "metric": "3.2681",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "d7705190391fa32b": {
+      "R_expr": "(x0 - -1.0995)",
+      "K_expr": "0.0",
+      "metric": "(x0 - -1.0995)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "85b1bbe18f4c8c19": {
+      "R_expr": "(x0 - (x0 * (x0 / asin(-1.3214))))",
+      "K_expr": "0.0",
+      "metric": "(x0 - (x0 * (x0 / asin(-1.3214))))",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "d8c1a4d124e402d0": {
+      "R_expr": "(2.6273 ^ x0)",
+      "K_expr": "0.0",
+      "metric": "(2.6273 ^ x0)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "9aa40242bac759a7": {
+      "R_expr": "((((x0 + 2.0142) ^ tanh(0.5863)) * x0) * x0)",
+      "K_expr": "0.0",
+      "metric": "((((x0 + 2.0142) ^ tanh(0.5863)) * x0) * x0)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "71c7d0d01c279505": {
+      "R_expr": "(acos((-2.0166 / 1.5219)) ^ x0)",
+      "K_expr": "0.0",
+      "metric": "(acos((-2.0166 / 1.5219)) ^ x0)",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "230bc3e0a66b230f": {
+      "R_expr": "(((x0 ^ 0.0530) * -2.5143) ^ sinh(x0))",
+      "K_expr": "0.0",
+      "metric": "(((x0 ^ 0.0530) * -2.5143) ^ sinh(x0))",
+      "metric_type": "Node",
+      "topology": "unknown",
+      "frequency": 1,
+      "trust_score": 0.5
+    },
+    "3d81ab1410d74732": {
+      "R_expr": "abs(x0)",
+      "K_expr": "0.0",
+      "metric": "abs(x0)",
       "metric_type": "Node",
       "topology": "regional",
       "frequency": 1,
